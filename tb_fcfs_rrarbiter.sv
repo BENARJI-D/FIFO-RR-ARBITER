@@ -6,7 +6,6 @@
 /////////////////////////////////////////////////////////
 module tb_FCFS_Weighted_RR_Arbiter;
 
-    // Parameters
     parameter Requestors = 4;
     parameter QUANTUM = 10;
 
